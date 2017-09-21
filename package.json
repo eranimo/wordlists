@@ -1,6 +1,6 @@
 {
   "name": "wordlists",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a collection of English words categorized by various themes.",
   "main": "index.js",
   "scripts": {
