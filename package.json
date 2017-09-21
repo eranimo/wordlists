@@ -1,0 +1,19 @@
+{
+  "name": "wordlists",
+  "version": "1.0.0",
+  "description": "This is a collection of English words categorized by various themes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eranimo/wordlists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eranimo/wordlists/issues"
+  },
+  "homepage": "https://github.com/eranimo/wordlists#readme"
+}
