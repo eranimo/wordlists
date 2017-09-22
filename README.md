@@ -1,3 +1,8 @@
+Fork of wordlists that has been set up to work with NPM and nodejs.
+
+-----
+
+
 # Word Lists
 
 This is a collection of English words categorized by various themes.
